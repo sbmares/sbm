@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/SBMARES1/Documents/Assignment2-4360/Assignment2-4360.csproj": {}
+  },
+  "projects": {
+    "/Users/SBMARES1/Documents/Assignment2-4360/Assignment2-4360.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/SBMARES1/Documents/Assignment2-4360/Assignment2-4360.csproj",
+        "projectName": "Assignment2-4360",
+        "projectPath": "/Users/SBMARES1/Documents/Assignment2-4360/Assignment2-4360.csproj",
+        "packagesPath": "/Users/SBMARES1/.nuget/packages/",
+        "outputPath": "/Users/SBMARES1/Documents/Assignment2-4360/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/SBMARES1/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

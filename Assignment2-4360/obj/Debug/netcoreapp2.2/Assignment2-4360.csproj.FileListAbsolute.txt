@@ -1,0 +1,11 @@
+/Users/SBMARES1/Documents/Assignment2-4360/bin/Debug/netcoreapp2.2/Assignment2-4360.deps.json
+/Users/SBMARES1/Documents/Assignment2-4360/bin/Debug/netcoreapp2.2/Assignment2-4360.runtimeconfig.json
+/Users/SBMARES1/Documents/Assignment2-4360/bin/Debug/netcoreapp2.2/Assignment2-4360.runtimeconfig.dev.json
+/Users/SBMARES1/Documents/Assignment2-4360/bin/Debug/netcoreapp2.2/Assignment2-4360.dll
+/Users/SBMARES1/Documents/Assignment2-4360/bin/Debug/netcoreapp2.2/Assignment2-4360.pdb
+/Users/SBMARES1/Documents/Assignment2-4360/obj/Debug/netcoreapp2.2/Assignment2-4360.csprojAssemblyReference.cache
+/Users/SBMARES1/Documents/Assignment2-4360/obj/Debug/netcoreapp2.2/Assignment2-4360.csproj.CoreCompileInputs.cache
+/Users/SBMARES1/Documents/Assignment2-4360/obj/Debug/netcoreapp2.2/Assignment2-4360.AssemblyInfoInputs.cache
+/Users/SBMARES1/Documents/Assignment2-4360/obj/Debug/netcoreapp2.2/Assignment2-4360.AssemblyInfo.cs
+/Users/SBMARES1/Documents/Assignment2-4360/obj/Debug/netcoreapp2.2/Assignment2-4360.dll
+/Users/SBMARES1/Documents/Assignment2-4360/obj/Debug/netcoreapp2.2/Assignment2-4360.pdb
